@@ -1,0 +1,177 @@
+[
+    {
+        "displayName": "Miriam Gutmair",
+        "email": null,
+        "mri": "8:live:.cid.4556679b35bd7d34",
+        "origin_file": "forensicsim-data\\karelze_v_23306_3309_2530_1346\\IndexedDB\\https_teams.live.com_0.indexeddb.leveldb",
+        "record_type": "contact",
+        "userPrincipalName": null
+    },
+    {
+        "displayName": "Alexander Bilz",
+        "email": null,
+        "mri": "8:live:.cid.de98c9558ebc6a2e",
+        "origin_file": "forensicsim-data\\karelze_v_23306_3309_2530_1346\\IndexedDB\\https_teams.live.com_0.indexeddb.leveldb",
+        "record_type": "contact",
+        "userPrincipalName": null
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.de98c9558ebc6a2e_1636447660368611668",
+        "clientArrivalTime": "1704648036627.0",
+        "clientmessageid": "1636447660368611668",
+        "composetime": "1704648036627.0",
+        "content": "",
+        "contenttype": "Text",
+        "conversationId": "19:uni01_ydaweogqhlrsl7ruck7bra36vzqg6nd66m6vgu4f7oxj3pyojp5q@thread.v2",
+        "createdTime": "2024-01-07T17:20:36.627000",
+        "creator": "8:live:.cid.de98c9558ebc6a2e",
+        "isFromMe": false,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "forensicsim-data\\karelze_v_23306_3309_2530_1346\\IndexedDB\\https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1628371656969.0",
+        "properties": {
+            "deletetime": 1630504936089.0,
+            "hardDeleteReason": "ThreadServiceDeleteMessage",
+            "hardDeleteTime": 1630504936089.0
+        },
+        "record_type": "message",
+        "version": "2021-09-01T14:02:16.089000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.de98c9558ebc6a2e_8721252353031831926",
+        "clientArrivalTime": "1704648036627.0",
+        "clientmessageid": "8721252353031831926",
+        "composetime": "1704648036627.0",
+        "content": "",
+        "contenttype": "Text",
+        "conversationId": "19:uni01_ydaweogqhlrsl7ruck7bra36vzqg6nd66m6vgu4f7oxj3pyojp5q@thread.v2",
+        "createdTime": "2024-01-07T17:20:36.627000",
+        "creator": "8:live:.cid.de98c9558ebc6a2e",
+        "isFromMe": false,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "forensicsim-data\\karelze_v_23306_3309_2530_1346\\IndexedDB\\https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1628372039932.0",
+        "properties": {
+            "cards": [],
+            "files": [],
+            "importance": 0,
+            "links": [],
+            "mentions": []
+        },
+        "record_type": "message",
+        "version": "2021-08-07T21:33:59.932000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:mail_37693_1317922575403464993",
+        "clientArrivalTime": "1704648036627.0",
+        "clientmessageid": "1317922575403464993",
+        "composetime": "1704648036627.0",
+        "content": "",
+        "contenttype": "Text",
+        "conversationId": "19:uni01_ydaweogqhlrsl7ruck7bra36vzqg6nd66m6vgu4f7oxj3pyojp5q@thread.v2",
+        "createdTime": "2024-01-07T17:20:36.627000",
+        "creator": "8:live:mail_37693",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "forensicsim-data\\karelze_v_23306_3309_2530_1346\\IndexedDB\\https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1629347829747.0",
+        "properties": {
+            "cards": [],
+            "files": [],
+            "importance": 0,
+            "links": [],
+            "mentions": []
+        },
+        "record_type": "message",
+        "version": "2021-08-19T04:37:09.747000"
+    },
+    {
+        "cachedDeduplicationKey": "19:meeting_MWExNDY2ODAtMjMyMC00MDg5LWExMzMtOTJlMjk2MTQ3MjBj@thread.v2",
+        "clientUpdateTime": null,
+        "id": "19:meeting_MWExNDY2ODAtMjMyMC00MDg5LWExMzMtOTJlMjk2MTQ3MjBj@thread.v2",
+        "members": [
+            {
+                "id": "8:live:.cid.8b104e22494868dd",
+                "isReader": false,
+                "role": "Admin"
+            },
+            {
+                "friendlyName": "Markus Bilz",
+                "id": "8:live:mail_37693",
+                "isReader": false,
+                "role": "Admin"
+            }
+        ],
+        "record_type": "meeting",
+        "threadProperties": {
+            "cfet": false,
+            "coOrganizers": "<Undefined>",
+            "consumerGroupId": "<Undefined>",
+            "createdat": "1682354463324",
+            "creator": "8:live:.cid.8b104e22494868dd",
+            "disabledReason": "<Undefined>",
+            "extensionDefinitionContainer": {
+                "tabsEtag": null,
+                "updatedTime": "1682355553707"
+            },
+            "gapDetectionEnabled": true,
+            "groupTemplate": "<Undefined>",
+            "guardianChatInfo": "<Undefined>",
+            "hasTranscript": false,
+            "hidden": false,
+            "importState": "unknown",
+            "isDisabled": "false",
+            "isLastMessageFromMe": false,
+            "isLiveChatEnabled": false,
+            "isRead": true,
+            "isStickyThread": false,
+            "lastjoinat": "1682359575220",
+            "liveChatPolicy": "<Undefined>",
+            "meeting": {
+                "coOrganizerIds": [],
+                "endTime": "0001-01-01T00:00:00",
+                "eventType": "Single",
+                "exchangeId": null,
+                "iCalUid": null,
+                "isCancelled": false,
+                "isCopyRestrictionEnforced": false,
+                "location": null,
+                "meetingData": {
+                    "meetingCode": "9479483216578"
+                },
+                "meetingJoinUrl": "https://teams.live.com/meet/9479483216578",
+                "meetingType": "Adhoc",
+                "organizerId": "8b104e22494868dd",
+                "scenario": "",
+                "startTime": "0001-01-01T00:00:00",
+                "subject": "Besprechung mit Natalie Bilz",
+                "templateDetails": null
+            },
+            "meetingChatPolicy": "Unknown",
+            "meetingContent": "<Undefined>",
+            "meetingObjectsConfig": "<Undefined>",
+            "messagingdisabled": false,
+            "picture": "<Undefined>",
+            "recentAttendanceReport": "<Undefined>",
+            "retentionHorizon": 0,
+            "retentionHorizonV2": 0,
+            "sharehistorytime": 1682359575220.0,
+            "templateType": "<Undefined>",
+            "tenantid": "00000000-0000-0000-0000-000000000000",
+            "themeId": "<Undefined>",
+            "threadType": "meeting",
+            "topic": "Besprechung mit Natalie Bilz",
+            "uniquerosterthread": false,
+            "version": "1691133273147",
+            "webinarId": "<Undefined>"
+        },
+        "type": "Meeting",
+        "version": 1691133273264.0
+    }
+]
